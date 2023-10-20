@@ -1,0 +1,214 @@
+{
+    "listaPoderes":[
+        {
+            "id":1,
+            "tipo": "Amplificación de poderes",
+            "descripcion": "Habilidad de mejorar o debilitar los poderes de los demás."
+        },
+        {
+            "id": 2,
+            "tipo": "Otorgamiento de poderes",
+            "descripcion": "Capacidad para otorgar poderes o activar sus poderes latentes."
+        },
+        {
+            "id": 3,
+            "tipo": "Imitación de poderes o absorción de poderes",
+            "descripcion": "Posibilidad de copiar o absorber poderes o habilidades de otro también el arte de pensarlo."
+        },
+        {
+            "id": 4,
+            "tipo": "Anulación de poderes",
+            "descripcion": "Habilidad de cancelar los superpoderes de los demás."
+        },
+        {
+            "id": 5,
+            "tipo": "Detección de poderes",
+            "descripcion": "Habilidad de detectar o reconocer poderes superhumanos."
+        },
+        {
+            "id": 6,
+            "tipo": "Afinidad",
+            "descripcion": "Las habilidades físicos y/o superpoderes del usuario aumentan ante determinado estímulo (una emoción, un elemento, etc.)."
+        },
+        {
+            "id": 7,
+            "tipo": "Factor de curación",
+            "descripcion": "Capacidad de sanarse rápidamente y con mayor firmeza de cualquier lesión; la tasa de recuperación varía de un personaje a otro. A veces puede resultar en la desaceleración del envejecimiento y la inmunidad a las enfermedades y otros defectos."
+        },
+        {
+            "id": 8,
+            "tipo": "Generación de ácido",
+            "descripcion": "Habilidad de generar ácido, que se puede manifestar a través del tacto o de un aerosol (por ejemplo, escupir ácido, ácido en la sangre, etc)."
+        },
+        {
+            "id": 9,
+            "tipo": "Mimetismo animal",
+            "descripcion": "Habilidad de asumir la capacidad y la forma de ciertos animales."
+        },
+        {
+            "id": 10,
+            "tipo": "Mimetismo animal específico",
+            "descripcion": "Poseer la habilidad de un animal concreto."
+        },
+        {
+            "id": 11,
+            "tipo": "Manipulación biológica",
+            "descripcion": "Habilidad de controlar todos los aspectos de la diversidad biológica de la composición de un ser vivo. Esto incluye, pero no se limita, a las alteraciones genéticas, la distorsión física/aumentativa, la curación, la enfermedad y las funciones biológicas."
+        },
+        {
+            "id": 12,
+            "tipo": "Sustitución de partes del cuerpo",
+            "descripcion": "La posibilidad de sustituir los miembros de uno o de otras partes del cuerpo con los de otro."
+        },
+        {
+            "id": 13,
+            "tipo": "Manipulación de los huesos",
+            "descripcion": "Habilidad de manipular los huesos de su propio cuerpo. Esto incluye, entre otros, a la generación de nueva masa ósea, huesos salientes de la piel o reordenación de los huesos de uno mismo."
+        },
+        {
+            "id": 14,
+            "tipo": "Duplicación (física)",
+            "descripcion": "Capacidad de crear duplicados físicos de uno mismo."
+        },
+        {
+            "id": 15,
+            "tipo": "Duplicación (temporal)",
+            "descripcion": "Capacidad para llevar las versiones pasadas y futuras de uno mismo hacia el presente."
+        },
+        {
+            "id": 16,
+            "tipo": "Ecolocación",
+            "descripcion": "Capacidad para determinar la ubicación de los objetos en el medio ambiente por el uso de ondas sonoras, ya sea generada por el carácter o el sonido ambiente. También conocido como sonar o sentido-radar."
+        },
+        {
+            "id": 17,
+            "tipo": "Invisibilidad",
+            "descripcion": "Habilidad de hacer que el usuario sea invisible a simple vista."
+        },
+        {
+            "id": 18,
+            "tipo": "Invulnerabilidad",
+            "descripcion": "Capacidad de ser inmune a una o más formas de daño físico, mental y espiritual y su influencia."
+        },
+        {
+            "id": 19,
+            "tipo": "Absorción cinética",
+            "descripcion": "Habilidad de absorción de las formas de la energía cinética en uno mismo y utilizarlo, de alguna manera, como mediante su conversión en fuerza física o el uso que las explosiones de energía de potencia."
+        },
+        {
+            "id": 20,
+            "tipo": "Ingestión de materia",
+            "descripcion": "Capacidad de consumir cualquier tipo de materia sin que tenga ningún efecto negativo sobre la persona."
+        },
+        {
+            "id": 21,
+            "tipo": "Fusión",
+            "descripcion": "Posibilidad de fusionar temporalmente dos o más seres en un solo ser, lo que resulta en un ser completamente nuevo y más fuerte."
+        },
+        {
+            "id": 22,
+            "tipo": "Manipulación de feromonas",
+            "descripcion": "Capacidad para generar y controlar feromonas que pueden tener efectos diferentes."
+        },
+        {
+            "id": 23,
+            "tipo": "Generador de toxinas",
+            "descripcion": "Habilidad de asaltar a otros con una o más variedades de toxinas, con efectos muy dispares."
+        },
+        {
+            "id": 24,
+            "tipo": "Control del pelo",
+            "descripcion": "Habilidad para animar o alargar el cabello."
+        },
+        {
+            "id": 25,
+            "tipo": "Adaptación reactiva/Evolución",
+            "descripcion": "Capacidad para desarrollar una resistencia o inmunidad a cualquier cosa que resultara herida o este expuesto a herirse. Este efecto puede ser permanente o temporal."
+        },
+        {
+            "id": 26,
+            "tipo": "Autodetonación o explosión y reformación",
+            "descripcion": "Capacidad para hacer explotar una masa corporal y reformarla."
+        },
+        {
+            "id": 27,
+            "tipo": "Grito sónico",
+            "descripcion": "Capacidad para generar sonidos vocales de una amplitud mayor a la de un humano normal."
+        },
+        {
+            "id": 28,
+            "tipo": "Aliento sobrehumano",
+            "descripcion": "Capacidad de inhalar / exhalar con fuerza sobrehumana de gran alcance. Esto puede ir desde la exhalación a la par con los vientos fuertes a la inhalación a la par con el poder de un vórtice gravitacional. En algunos casos, también se puede lograr las temperaturas de congelación."
+        },
+        {
+            "id": 29,
+            "tipo": "Resistencia sobrehumana",
+            "descripcion": "Capacidad para tener una mayor resistencia a una o más formas de daño antes de ser herido, así como la capacidad de ejercer en una actividad indefinidamente sin cansarse y/o sobrevivir durante largos períodos de tiempo sin alimentarse o sin beber agua."
+        },
+        {
+            "id": 30,
+            "tipo": "Agilidad sobrehumana",
+            "descripcion": "Capacidad para reaccionar más rápido que un humano normal o poseer una mayor flexibilidad o tener la habilidad de saltar más alto."
+        },
+        {
+            "id": 31,
+            "tipo": "Sentidos sobrehumanos",
+            "descripcion": "Habilidad de tener uno o más sentidos superiores a los de un humano normal."
+        },
+        {
+            "id": 32,
+            "tipo": "Superfuerza",
+            "descripcion": "Habilidad de tener un nivel de fuerza física mucho más alto que lo normalmente posible dada su calidad y cantidad muscular. En ocasiones va acompañado por agilidad sobrehumana, o por lo menos una capacidad de salto sobrehumana."
+        },
+        {
+            "id": 33,
+            "tipo": "Visión nocturna",
+            "descripcion": "Capacidad de ver claramente en la oscuridad."
+        },
+        {
+            "id": 34,
+            "tipo": "Visión de rayos X",
+            "descripcion": "Capacidad de ver a través de materia sólida."
+        },
+        {
+            "id": 35,
+            "tipo": "Visión caliente",
+            "descripcion": "Capacidad de quemar objetos con la mirada."
+        },
+        {
+            "id": 36,
+            "tipo": "Visión telescópica",
+            "descripcion": "Habilidad de ampliar y extender la visión de uno a varios niveles."
+        },
+        {
+            "id": 37,
+            "tipo": "Visión congelante",
+            "descripcion": "Capacidad para congelar objetos con la mirada."
+        },
+        {
+            "id": 38,
+            "tipo": "Adherencia",
+            "descripcion": "Capacidad de adherirse a superficies sólidas, como paredes y techos."
+        },
+        {
+            "id": 39,
+            "tipo": "Respiración subacuática",
+            "descripcion": "Capacidad de respirar debajo del agua en lugar de hacerlo en un medio gaseoso. No se debe confundir con una capacidad de contener la respiración bajo el agua o el ser capaz de respirar con un suministro de aire alternativo."
+        },
+        {
+            "id": 40,
+            "tipo": "Inmortalidad",
+            "descripcion": "La capacidad de vivir para siempre. Esto puede ir desde la inmortalidad completa, que puede ser invulnerabilidad parcial a total. En el caso de que se lo quiera decapitar, el hueso de la columna vertebral impide cortar la cabeza. Puede estar ocasionado por otro poder, como la regeneración."
+        },
+        {
+            "id": 41,
+            "tipo": "Amortalidad",
+            "descripcion": "La capacidad de no poder morir por causas naturales. Puede ser ocasionada por el ambiente dónde el ser vive, como el caso de Peter Pan. También puede ser producto de que no envejezca, o no crezca. Sin embargo, el ser puede perecer por otras causas, como accidentes, lesiones, decapitaciones, etc."
+        },
+        {
+            "id": 42,
+            "tipo": "Vidas múltiples",
+            "descripcion": "Capacidad de resucitar un limitado número de veces."
+        }
+    ]
+}
